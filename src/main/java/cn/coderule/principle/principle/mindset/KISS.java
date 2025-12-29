@@ -1,4 +1,4 @@
-package cn.coderule.principle.principle.guideline;
+package cn.coderule.principle.principle.mindset;
 
 /**
  * keep it simple and stupid
