@@ -1,4 +1,4 @@
-package cn.coderule.principle.principle.guideline;
+package cn.coderule.principle.principle.document;
 
 /**
  * Comment For Inheritance or Prohibit Inheritance
